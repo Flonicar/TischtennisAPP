@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tischtennis</string>
+    <string name="single_game">Einzel</string>
+    <string name="double_game">Doppel</string>
+    <string name="round_trip_game">Rundlauf</string>
+    <string name="mixed_game">Gemischt</string>
+    <string name="individual_tournaments_game">Einzelturniere</string>
+    <string name="team_tournaments_game">Mannschaftsturniere</string>
+    <string name="pub_game">Kneipenspiele</string>
+    <string name="without_table_game">Spiel ohne Tisch</string>
+    <string name="winning_sets">Gewinnsätze</string>
+    <string name="points">Punkte</string>
+    <string name="single_game_plaayer1">Spieler 1</string>
+    <string name="single_game_player2">Spieler 2</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_back">Zurück</string>
+    <string-array name="wingames_array">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="single_points_array">
+        <item>11</item>
+        <item>21</item>
+    </string-array>
+</resources>
